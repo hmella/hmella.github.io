@@ -1,7 +1,7 @@
 ---
 title: "Implementation of a Mixed and Hybrid Formulation of the PML Method in Elastodynamics Using FEniCS"
 collection: talks
-type: "Talk"
+type: "Conference proceedings talk"
 permalink: /talks/implementation-of-a-mixed-and-hybrid-formulation-of-the-pml-method-in-elastodynamics-using-fenics
 venue: "University of Luxembourg"
 date: 2017-06-01
