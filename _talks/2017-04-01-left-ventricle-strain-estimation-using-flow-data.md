@@ -1,7 +1,7 @@
 ---
 title: "Left Ventricle Strain Estimation Using Flow Data"
 collection: talks
-type: "Talk"
+type: "Conference proceedings talk"
 permalink: /talks/2017-04-01-left-ventricle-strain-estimation-using-flow-data
 venue: "25th Annual Meeting of the International Society for Magnetic Resonance in Medicine"
 date: 2017-04-01
