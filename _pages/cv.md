@@ -56,9 +56,11 @@ C++ (Advanced Level); Python (Advanced Level)
 FEniCS (Advanced Level); FreeFem++ (Advanced Level); Matlab (Advanced Level); LaTeX (Advanced Level)
 
 ## Publications and Presentations
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+<ul>{% for post in site.talks reversed %}
+    {% unless post.talk_type == "Conference proceedings talk" %}
+      {% include archive-single-talk-cv.html %}
+    {% endunless %}
+{% endfor %}</ul>
 
 ## Memberships
 International Society for Magnetic Resonance in Medicine <br/>
