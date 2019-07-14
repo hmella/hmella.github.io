@@ -1,7 +1,7 @@
 ---
 title: "Implementation of a Mixed and Hybrid Formulation of the PML Method in Elastodynamics Using FEniCS"
 collection: publications
-permalink: /publication/2016-06-01-implementation-of-a-mixed-and-hybrid-formulation-of-the-pml-method-in-elastodynamics-using-fenics
+permalink: /publication/2017-06-01-implementation-of-a-mixed-and-hybrid-formulation-of-the-pml-method-in-elastodynamics-using-fenics
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2017-06-01
 venue: 'Proceedings of the 2017's FEniCS conference'
