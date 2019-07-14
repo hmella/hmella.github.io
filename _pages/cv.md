@@ -55,6 +55,12 @@ C++ (Advanced Level); Python (Advanced Level)
 ## Softwares
 FEniCS (Advanced Level); FreeFem++ (Advanced Level); Matlab (Advanced Level); LaTeX (Advanced Level)
 
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
 ## Publications and Presentations
 *“An Harmonic Phase Interpolation Method for the Estimation of Motion from Tagged MR Images”*. Paper presented at the 27th Annual Meeting of the International Society for Magnetic Resonance in Medicine. Montreal, CA, June 2019.
 
