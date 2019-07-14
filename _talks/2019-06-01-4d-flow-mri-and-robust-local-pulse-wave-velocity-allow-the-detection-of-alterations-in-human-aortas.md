@@ -3,7 +3,7 @@ title: "4D-Flow MRI and Robust Local Pulse Wave Velocity Allow the Detection of 
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2019-06-01-4d-flow-mri-and-robust-local-pulse-wave-velocity-allow-the-detection-of-alterations-in-human-aortas
-venue: "26th Annual Meeting of the International Society for Magnetic Resonance in Medicine"
+venue: "27th Annual Meeting of the International Society for Magnetic Resonance in Medicine"
 date: 2019-06-01
 location: "Montreal, CA"
 ---
