@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<u><a style="line-height: 1.5;" href="http://www.stuartgeiger.com/geiger-cv.pdf"><span style="color: #333333;"><span style="font-size: medium;">Also available in PDF format.</span></span></a></u>
+<u><a style="line-height: 1.5;" href="https://github.com/hmella/hmella.github.io/blob/master/hmella-cv.pdf"><span style="color: #333333;"><span style="font-size: medium;">Also available in PDF format.</span></span></a></u>
 <h1 class="western" align="center"><b>Hernán Mella</b></h1>
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span></p>
 
@@ -57,7 +57,8 @@ Assisted Professor Joaquín Mura in his project “Modelling and simulation of w
 C++ (Advanced Level); Python (Advanced Level)
 
 ### __Softwares__
-FEniCS (Advanced Level); FreeFem++ (Advanced Level); Matlab (Advanced Level); LaTeX (Advanced Level)
+FEniCS (Advanced Level); FreeFem++ (Advanced Level); Matlab (Advanced Level); LaTeX (Advanced Level);
+Git (Advanced Level)
 
 ### __Publications and Presentations__
 <ul>{% for post in site.talks reversed %}
