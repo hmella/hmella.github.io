@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<u><a style="line-height: 1.5;" href="https://github.com/hmella/hmella.github.io/blob/master/hmella-cv.pdf"><span style="color: #333333;"><span style="font-size: medium;">Also available in PDF format.</span></span></a></u>
+[Also available in PDF format](https://hmella.github.io/hmella-cv.pdf)
 <h1 class="western" align="center"><b>Hernán Mella</b></h1>
 <p style="line-height: 1.5;" align="center"><span style="font-size: medium;"><b>Curriculum Vitae</b> </span></p>
 
